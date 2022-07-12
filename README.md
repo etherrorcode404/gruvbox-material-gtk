@@ -25,6 +25,7 @@ This theme is a port of [sainnhe/gruvbox-material](https://github.com/sainnhe/gr
 - The gtk theme is based on [nana-4/materia-theme](https://github.com/nana-4/materia-theme).
 - The icon theme is based on [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
 - Colors are based on [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material).
+- Gtk theme is based on [https://github.com/3ximus/gruvbox-gtk.git] 
 
 ## License
 
