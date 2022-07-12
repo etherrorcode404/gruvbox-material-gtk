@@ -12,11 +12,7 @@ This theme is a port of [sainnhe/gruvbox-material](https://github.com/sainnhe/gr
     - `gtk-murrine-engine` on Fedora
     - `gtk2-engine-murrine` on openSUSE
     - `gtk2-engines-murrine` on Debian, Ubuntu, etc.
-
-### AUR
-
-For Arch Linux users, you can install this theme from AUR: [gruvbox-material-theme-git](https://aur.archlinux.org/pkgbase/gruvbox-material-theme-git/)
-
+    
 ### Manually Installation
 
 1. Clone this repository.
