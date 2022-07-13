@@ -18,13 +18,6 @@ This theme is a port of [sainnhe/gruvbox-material](https://github.com/sainnhe/gr
 1. Clone this repository.
 2. Copy `/path/to/gruvbox-material-gtk/themes/*` to `~/.themes/` or `~/.local/share/themes/`
 3. Copy `/path/to/gruvbox-material-gtk/icons/*` to `~/.icons/` or `~/.local/share/icons/`
-4. If you cloned in ~/ 
-```
-sudo rm -rf /usr/share/themes/Gruvbox-Material-Dark\
-sudo rm -rf /usr/share/icons/Gruvbox-Material-Dark\
-sudo mv ~/gruvbox-material-gtk/themes/Gruvbox-Material-Dark /usr/share/themes\
-sudo mv ~/gruvbox-material-gtk/icons/Gruvbox-Material-Dark /usr/share/icons
-```
 
 ## Credits
 
