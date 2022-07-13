@@ -21,7 +21,7 @@ This theme is a port of [sainnhe/gruvbox-material](https://github.com/sainnhe/gr
 4. If you cloned in ~/ 
 ```
 rm -rf /usr/share/themes/Gruvbox-Material-Dark\
-rm -rf /usr/share/themes/Gruvbox-Material-Dark\
+rm -rf /usr/share/icons/Gruvbox-Material-Dark\
 sudo mv ~/gruvbox-material-gtk/themes/Gruvbox-Material-Dark /usr/share/themes\
 sudo mv ~/gruvbox-material-gtk/icons/Gruvbox-Material-Dark /usr/share/icons
 ```
